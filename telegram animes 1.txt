@@ -1,0 +1,620 @@
+------------------------------------------------------------------------
+                telegram 1 channel downloads start
+------------------------------------------------------------------------
+
+Haikyu <---> s1 after ova1(1), s2 after ova2(1)
+Naruto Shippuuden <---> all 500 episodes (71 to 85 missing)
+        (1 to 25, 26 to 50, 51 to 70, 86 to 95, 96 to 100, 101 to 110, 149 to 166,
+        167 to 186, 187 to 200, 201 to 217, 218 to 237, 238 to 250, 111 to 128
+        (129, 148), 130 to 147, 251 to 268, 269 to 287, 288 to 300, 476 to 490, 491 to 500
+        301 to 317, 318 to 333, 334 to 352, 353 to 368, 369 to 382, 383 to 397, 398 to 411, 412 to 423,
+        424 to 437, 438 and 454, 455 to 465, 466 to 475 )
+
+One Piece <---> 1 to 100 Volumes Black and White
+Naruto <---> 1 to 137, 220 episodes
+        1, 2 to 16, 17 to 32, 33 to 46, 47 to 60, 61 to 74, 75 to 89, 90 to 104, 105 to 118, 119 to 132, 133 to 137, 200
+
+Rascal Does Not Dream of Bunny Girl Senpai <---> Speicials (5 episodes, has only audio, below 10 minute episodes)
+Haikyu <---> S3 after ova3( 1 episode ), S4 after ova4( 2 episodes ), Movies 1,2,3,4
+
+--------------- (until here - bundled zips) ----------------------
+
+The Duke of Death and His Maid <---> S1(12), S2(12), S3(12)
+Horimiya <---> Manga 1 to 16 volumes ( 4 to 16, 1 to 3)
+Plus-Sized Elf <---> s1(10) + ova(2)
+Tokyo Revengers <---> manga volume 16 to 20
+blue lock <---> manga(1 to 26 volumes(3 to 26, 1 to 2) till 230 chapters )
+Fairy Tail <---> 1 to 175 episodes
+        1 to 25, 50, 26 to 49, 51 to 100, 127 to 150, 101 to 126
+        153 to 175, 151 and 152
+Fairy Tail <---> (2014) 1 to 102 = ( 176 to 277 episodes),
+        87 to 102, 1 to 86
+Fairy Tail <---> (2018) 1 to 51 = (278 to 328 episodes)
+        28 to 51, 1 to 27
+
+One Piece <---> 517 to 768(anipulse version)
+        517 to 570, 590, 581 to 589, 571 to 580, 591 to 768
+
+Zenshu <---> s1(12)
+
+One Piece <---> 492 A (anipulse version i guess)
+One Piece <---> Hub Only 207 to 250, 326 to 381(365 missing)
+Dragon ball <---> Z (291)
+One Piece <---> Fisherman Reanimated 21
+Dragon ball <---> super (131)
+Dragon ball <---> Daima 17 to 20 episodes 
+Dragon ball <---> super manga 1 to 16 (colored volumes, till chapter 72), 73 to 92 (colored chapters), 93 to 103 black n white
+Demon Lord 2099 <---> 9 to 11 episodes 
+Haikyu <---> S1(25), s2(25), s3(10), s4(25)
+Dragon Ball <---> 153 episodes
+Your Lie in april <---> 22eps + ova(1)
+Our Love Has Always Been 10 Centimeters apart. <---> 6eps
+Devil may cry <---> s1(8)
+
+---------------------------------------- ( after here without zips ) ------------------------
+
+Triage X <---> 1 to 10 episodes
+The Way of Pon <---> 12 eps
+Cross Ange Rondo of Angel and Dragon <---> 25 eps
+Queen's Blade <---> s1(12), s1 after speicials(6), s2(12), s2 after speicials(6), s3(6), s3 after ova(2), 
+Queen's Blade <---> s3 after ova special(1), s4(12), s4 after specials(6), s5(4), S5 after speicial(4), s6(2) 
+Food Wars! Shokugeki no Soma <---> s1(24), s2(13), s3(24), s4(12), s5(13), ovas(5)
+Akashic Records of Bastard Magic Instructor <---> s1 12
+Harem in the Labyrinth of Another World <---> 12
+Plunderer <---> 24
+Record of Ragnarok <---> s1(12), s2 part 1(10), s2 part 2(5)
+Remake Our Life <---> s1(12)
+Tomo-chan is a Girl <---> s1(13)
+The case study of vanitas <---> s1(12) 
+Friends Game <---> Tomodachi game s1(12)
+Cat Planet Cuties <---> s1(12) + ova(1)
+Banished From the Heroes' Party <---> s2(12)
+GirlFriend, girlfriend <---> s1(12)
+Kakegurui Compulsive Gambler <---> s1(12), s2(12), ova(3)
+
+The Seven Deadly Sins <---> s1(24) 1 to 14, 16 to 24, 15th episode, s2(24), s3(24), s4(24)
+Sword Art Online <---> Extra Edition movie,  s2(24) 
+Rascal Does Not Dream of Bunny Girl Senpai <---> movie 3
+Dr. Stone <---> s1(24), s2(11), s3(22)
+A Couple of Cuckoos <---> 24
+I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability <---> 12 
+The Eminence in Shadow <---> S1(20)
+My Happy Marriage <---> s1(12), S1 after ova(1), s2(13)
+A Silent Voice <---> movie + ova(1)
+I Want to Eat your Pancreas <---> movie
+Your Name <---> movie
+Chivalry of a Failed Knight <---> 12
+It's Too Sick to Call this Love, Koikimo <---> 12
+My Roommate Is A Cat <---> 12
+Monthly Girls' Nozaki-kun <---> 12 
+One Punch Man <---> s1(12), s1 after ova1(1), s1 after ova(6), s2(12), s2 after ova(6)
+Re-Main <---> 12
+The Hidden Dungeon Only I Can Enter <---> 12
+Trapped in a Dating Sim The World of Otome Games Is Tough for Mobs <---> 12
+Love Flops <---> 12
+Smile Down the Runway <---> 12
+Waiting in the Summer <---> 12
+Weathering With You <---> movie
+undead unluck <---> 24
+The Elusive Samurai <---> 12
+The God of High School <---> 12
+The Rising of the Shield Hero <---> s1(25), s2(13), s3(12)
+
+The World's Finest Assassin Gets Reincarnated in a Different World as an Aristocrat <---> 12 eps
+A Girl & Her Guard Dog <---> 13 eps
+Uncle from Another World <---> 12 eps
+Takt Op. Destiny <---> 12 eps
+Yakuza Fiance Raise wa Tanin ga Ii <---> 12 eps
+Akame ga Kill <---> 24 eps
+One Piece colored Volumes <---> 1 to 101
+
+Please tell me! Galko-chan <---> 12 eps + ova1(1)
+The Strongest Magician in the Demon Lord's Army was a Human <---> 12 eps 
+Kubo Won't Let Me Be Invisible <---> 12 eps
+Blood Lad <---> 10 eps + ova1
+High School of the Dead <---> 12 eps
+My Stepsister is My Ex-Girlfriend <---> 12 eps, 8th ep uploaded down
+Edens Zero <---> s1(25), s2(25)
+My Stepsister is My Ex-Girlfriend <---> 8th episode
+
+Fate <---> Fate Zero s1(13), s2(12), Remix Specials(2), Specials 6eps (Fate Zero Einzbern Consultation)
+Fate <---> Fate Lord El-Melloi 13 eps + special
+Fate <---> Fate Stay Night 24 eps + Ova(2, Fate Stay Night Reproduction)
+Fate <---> Fate Stay Night Unlimited Blade Works Movie + Prologue + s1(12) + s2(13)
+Fate <---> Fate Stay Night Unlimited Blade Works Sunny Days Special
+Fate <---> Fate Stay Night heaven's Feel Movie1, movie2 and movie3
+Fate <---> Fate/Grand Order Moonlight/LostRoom Special
+Fate <---> Fate/Grand Order first Order Special
+Fate <---> Fate/Grand order movie1 and Movie2
+Fate <---> Fate/Grand Order Absolute Demonic Front Babylonia Intitium Tier (special), 21 eps
+Fate <---> Fate/Grand order Final Singularity Grand Temple of Time SolomonMovie
+
+Fate <---> Fate Apocrypha 25 eps
+Fate <---> Fate Extra Last Encore 12 eps (13th episode uploaded later)
+Fate <---> Fate Carnival Phantasm 12 eps + Speical ( 4 other specials are there uploaded later )
+Fate <---> Fate Menu For Emiya 13 eps
+
+Fate <---> Fate kaleid Liner Prisma Illya S1(10) + s1 ova + s1 specials(5), 
+Fate <---> Fate kaleid Liner Prisma Illya S2(10) + s2 ova + s2 specials(5), 
+Fate <---> Fate kaleid Liner Prisma Illya S3(10) + s2 specials(5), 
+Fate <---> Fate kaleid Liner Prisma Illya S4(12) + s2 specials(6), 
+Fate <---> Fate kaleid Liner Prisma Illya Vow In The Snow Movie
+Fate <---> Fate kaleid Liner Prisma Illya Prisma Phantasm Movie
+Fate <---> Fate kaleid Liner Prisma Illya Licht Nameless Girl Movie
+
+Fate <---> Fate Strange Fake Whispers of Dawn Special
+
+Fate <---> Fate Carnival Phantasm FatePrototype
+Fate <---> Fate Carnival Phantasm First Singularity
+Fate <---> Fate Carnival Phantasm Hibichika Special
+Fate <---> Fate Carnival Phantasm Ilya's Castle
+
+Fate <---> Fate Extra Last Encore 13th episode
+
+As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World <---> S1 12 eps
+Combatants Will Be Dispatched <---> 12 eps
+
+Fate <---> Fate Strange Fake The Heroic Spirit Incident
+
+My Dress-Up Darling <---> ( 12 + 2nd episode blue ray(2nd episode last one scene has difference))  = might be low quality
+The Disastrous Life of Saiki K. <---> S1(24), S2(24), Specials(2,Final Arc), Final Arc(6,Saiki K_Reawakened) 
+        start download and start playing is not working 
+
+The Dangers in My Heart <---> s1(12), ova1(1), s2(13)
+
+Teasing Master Takagi-san <---> s1(12), s2(12), s3(12), movie  (one ova is there, s1 after ova added it later)
+wind breaker <---> s2(12)
+
+Hyouka <---> 22 eps + ova
+Can a Boy-Girl Friendship Survive <---> 12eps
+Ragna Crimson <---> 24 eps ( 4th episode added at last )
+Kuroko's Basketball <---> S1(25 eps), s2(25), s3(25)
+Kuroko's Basketball <---> Kuroko no Basket Ova(3), specials(3), movies(4)
+Makeine Too Many Losing Heroines! <---> 12 eps
+
+One Piece <---> 890 to 1050 eps (966 to 969, 971 missing)
+
+One Piece <---> 1051 to 1085 (1071 missing) 
+        ( 1051 to 1060, 1072 to 1085, 1061 to 1064, 1066 to 1070, 1065)
+Chainsaw Man <---> Manga chapters 1 to 113
+
+Jujutsu Kaisen <---> Manga Chapters (JJK) 1 to 190, Volume 0 (4 chapters), 129.5,132.5,168.5 , 191 to 271, 262.5
+
+Ikki Tousen <---> s1(13), s2(12), ova1(2), s3(12), s4(12), ova2(1), ova3(3), Shin Ikki tousen(3)
+My hero Academia <---> s1(13), s2(25), s3(25), s4(25), s5(25), s6(26), s7(21), movies (4)
+High School DxD <---> s1(12), ova(2), Speicials(6), S2(12), Ova(1), S3(12), Ova(1), Specials(6), Speicals(1), S4(12)
+
+Do You Love Your Mom and Her Two-Hit Multi-Target Attacks <---> 12 eps + ova(1)
+Elfen Lied <---> 13 eps + ova(1)
+Noragami <---> s1(12), s2(13), OAD(4)
+The Future Diary <---> 26
+Freezing <---> s1(12), s2(12)
+My Wife is the Student Council President <---> s1(12), ova(1), s2(12)
+
+More than a married couple, but not lovers <---> 12
+My Clueless first friend <---> 13 eps
+My First Girlfriend is a Gal <---> 10, ova(1)
+Keijo <---> 12 + speicals(6)
+Bikini Warriors <---> 12, special(1), ova(6)
+World's End Harem <---> 11
+The Legendary Hero is Dead <---> 12 eps
+Vermeil in Gold <---> 12 eps
+Our Dating Story The Experienced You and The Inexperienced Me, Kimizero <---> 12
+Horimiya <---> s1(13), s2(13)
+Ao-chan Can't Study <---> (12 episodes)
+SUPER HXEROS <---> s1(12) + ova(2) 
+
+My Star <---> s1(11), s2(13)
+So, I Can't Play H <---> 12 + ova
+Teasing Master Takagi-san <---> ova1 s1 after ova 
+TenPuru No One Can Live on Loneliness <---> 13 eps (12 + ova)
+SHIMONETA A Boring World Where the Concept of Dirty Jokes Doesn't Exist <---> 12 eps 
+
+Chained Solider <---> (12 episodes)
+Aesthetica of a Rogue Hero <---> 12 eps
+Hokkaido Gals Are Super Adorable <---> S1(12)
+Grand Blue Dreaming <---> 12 episodes
+My Hero Academia Vigilantes <---> 13 eps
+The Super Cube <---> 12 eps
+blue lock <---> s1(24), s2(14)
+Frieren Beyond Journey's End <---> 28
+Rent-A-Girlfriend <---> s1(12), s2(12), s3(12) = might be low quality
+
+Gintama <---> 367 episodes + 3 ona + 3 movies
+Demon Slayer <---> s1(26 episodes), Mugen train movie, season 2 episode 1, 
+Demon Slayer <---> season 2 last 11 episodes(entertainment district arc), s3 11 episodes
+Nisekoi False Love <---> S1(20), ova(4), s2(12)
+Wistoria Wand and Sword <---> s1(12)
+Tokyo Revengers <---> S1(24), S2(13), S3(13)
+
+Jujutsu Kaisen <---> Movie 0
+Rascal Does Not Dream of Bunny Girl Senpai <---> Movie 1, 2
+Banished From the Heroes' Party <---> S1(13)
+Wind Breaker <---> S1(13)
+D-Frag <---> s1(12), Ova1
+Magical Sempai <---> s1(12)
+The Girl I Like Forgot Her Glasses <---> s1(13)
+The Tunnel to Summer, the Exit of Goodbye <---> movie
+Kono Oto Tomare! Sounds of Life <---> s1(1 to 13), s2(13)
+
+I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too- <---> s1(13) 
+The Ice Guy and His Cool Female Colleague <---> s1(12)
+Pseudo Harem <---> 12 eps
+i've always liked you <---> movie
+the moment you fall in love <---> movie
+Tonari no Seki-kun The Master of Killing Time <---> s1(21)
+
+The Kingdoms of Ruin <---> ep1
+Kowloon Generic Romance <---> 13 eps
+Alya Sometimes Hides Her Feelings in Russian <---> s1(12)
+My Tiny Senpai <---> s1(12)
+
+Bottom-Tier Character Tomozaki <---> s1(12), ova(2), s2(13)
+Classroom of the Elite <---> s1(12), s2(13), s3(13)
+Days with My Stepsister <---> s1(12)
+Don't Toy with Me, Miss Nagatoro <---> s1(12), s2(12)
+The Foolish Angel Dances with the Devil <---> s1(12)
+Go! Go! Loser Ranger <---> s1(12)
+Grandpa and Grandma Turn Young Again <---> S1(11)
+The Magical Girl and the Evil Lieutenant Used to Be Archenemies <---> 12eps
+
+Kaguya-sama Love is War <---> s1(12 episodes), Ova (1 episode after 1st season), s2(12 episodes), s3( Ultra Romantic 13 episodes), First Kiss (Last Movie, 4 episodes)
+How Not to Summon a Demon Lord <---> s1(12), s2(10)
+Aki Sora <---> Movie + 2 eps
+
+Monster Girl Doctor <---> 12 eps
+Love after World Domination <---> S1 12 eps
+Domestic Girlfriend <---> s1(12)
+You Are Ms. Servant. <---> 8 episodes ( 5 to 12)
+A Sign of affection <---> s1(12)
+The Cafe Terrace and Its Goddesses <---> S1 12
+Doctor Elise The Royal Lady with the Lamp <---> s1(12)
+
+Even Given the Worthless Appraiser Class, I'm Actually the Strongest <---> s1 (12) 
+Shangri-La Frontier <---> s1(25), s2(25)
+Blue Box <---> s1(25)
+Shikimori's Not Just a Cutie <---> 12 episodes 
+Tsurezure Children <---> 12 episodes
+Komi Can't Communicate <---> S1 12, S2 12
+My Little Monster <---> 13 episodes
+Bucchigiri <---> 12 eps
+Tamako Market <---> Tamako Love Story Movie
+Sakamoto Days <---> 11
+Tamako Market <---> 12
+
+The Greatest Demon Lord Is Reborn as a Typical Nobody <---> 12
+The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible <---> 12
+Viral Hit <---> 12
+
+365 days to wedding <---> 12ep
+Actually, I Am... <---> s1(13)
+An Archdemon's Dilemma How to Love Your Elf Bride <---> s1(12)
+Wotakoi Love is Hard for Otaku <---> s1(11), ova(3)
+
+A Galaxy Next Door <---> 12
+One Piece <---> Loving One Piece 5 eps
+The Daily Life of a Middle-Aged Online Shopper in Another World <---> 13 episodes
+The New Gate <---> s1(12)
+
+When will ayumu make his move <---> s1(12)
+Why Does nobody remember me in this world <---> s1(12)
+
+My Sweet Tyrant <---> 25
+Mashle Magic and Muscles <---> S1(12 episodes), s2(12)
+Bogus Skill Fruitmaster ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ <---> 12
+I Have a Crush at Work - Can You Keep a Secret <---> (s1 12)
+The Detective Is Already Dead <---> 12 epsiodes
+Possibly the Greatest Alchemist of All Time <---> s1 2 to 11 episodes
+Headhunted to Another World From Salaryman to Big Four! <---> (s1, 12 episodes)
+i parry everything <---> 12 episodes
+I'm Getting Married to a Girl I Hate in My Class <---> S1(12)
+Welcome to Japan, Ms. Elf! <---> (12)
+
+The Red Ranger Becomes an Adventurer in Another World <---> s1 (12)
+Solo Leveling <---> s1(12), s2(13)
+Sword Art Online <---> s1 (25)
+School Babysitters <---> S1(12 episodes) + 1 ova
+Berserk of Gluttony <---> 12 episodes
+Daily Lives of High School Boys <---> s1(12)+ ova(6) (total ova =7, 5th ova is waste)
+No Longer Allowed In Another World <---> (12)
+Relife <---> 13 episodes + 4 ova
+Mom, I'm Sorry <---> 18 eps
+
+Tonikawa Over The Moon For You <---> S1(12), OVA(SNS 1), Speical (uniform 1), S2(12), High school Days: The Series(ONA, 4)
+Jujutsu kaisen <---> S1(24),S2(23)
+Aho-girl <---> 12
+Astro Note <---> 12
+2.5 Dimensional Seduction <---> (24 episodes)
+Boarding School Juliet <---> (12)
+Rascal Does Not Dream of Bunny Girl Senpai <---> s1 ( 1 to 13 episodes)
+Chainsaw man <---> (12)
+Dan Da Dan <---> (12)
+Failure Frame I Became the Strongest and Annihilated Everything With Low-Level Spells <---> 12
+Handa kun <---> (12 episodes)
+Zom 100 Bucket List of the Dead <---> 12
+
+Darwin's Game <---> 11
+Momokuri <---> 26eps (13 files)
+Mieruko-chan <---> 12 episodes
+As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World <---> s2 12
+The Demon Sword Master of Excalibur Academy <---> 1 and 2 episodes
+God's Game we play <---> (13)
+Higehiro After Being Rejected, I Shaved and Took in a High School Runaway <---> 13
+
+Kaiju No. 8 <---> s1(12)
+Mr. Villain's Day Off <---> 12
+Ninja Kamui <---> 13
+Kandagawa Jet Girls <---> 12 + ova
+Haven't You Heard I'm Sakamoto <---> 12
+Into the forest of fireflies' light - The Light of a Firefly Forest - To the forest of firefly lights - Hotarubi no Mori e <---> movie
+Do Your Best, Douki-chan, Senpai is Mine <---> 12
+
+I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness <---> 12
+Engaged to the Unidentified <---> 12 + ova
+My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me! <---> 12
+Mysterious Disappearances <---> 12
+Go! Go! Loser Ranger <---> 12
+Studio Apartment, Good Lighting, Angel Included <---> 12
+Sankarea Undying Love <---> 12 + ova(3)
+Suzume's Door-Locking <---> Movie
+The Kawai Complex Guide to Manors and Hostel Behavior <---> 12 + ova
+Real Girl <---> s1(12), s2(12)
+Taisho Otome Fairy Tale <---> 12
+Loving Yamada at Lv999 <---> 13
+Yamada-kun and the Seven Witches <---> 12, crossover(release later than ovas), ova(2), ova2
+My Wife Has No Emotion <---> 12
+Rail Wars <---> 12
+My Home Hero <---> 12
+Wolf girl & Black Prince <---> 12 + ova
+Amagi Brilliant Park <---> 13 + ova
+Dance Dance Danseur <---> 11 eps
+
+The Quintessential Quintuplets <---> s1(12), s2(12), movie, speicials1(2), specials2(2 honey moon arc)
+The Cafe Terrace and Its Goddesses <---> s2(12)
+Tying the Knot with an Amagami Sister <---> 24 eps
+Queen's Blade <---> s7(2) 
+Love and Lies <---> s1(12), ova(1)
+triage X <---> ova
+The Eminence in Shadow <---> s2(12)
+You Are Ms. Servant. <---> 4 eps ( 1 to 4)
+Freezing <---> specials 6
+The Angel Next Door Spoils Me Rotten <---> 12
+Tales of Wedding Rings <---> 12
+My Senpai is Annoying <---> 12
+Peach Boy Riverside <---> 12
+Classroom for Heroes <---> 12
+Osamake Romcom Where The Childhood Friend Won't Lose <---> 12
+UQ Holder <---> 12
+Saekano How to Raise a Boring Girlfriend <---> s1(12), s2(11), movie
+UQ Holder <---> Ova(3)
+
+K-Project <---> s1(13), s2(13), ova, special, movies- 11 to 13
+Kakushite! Makina-san!! - Makina-san's a Love Bot <---> 12
+Josee, the Tiger and the Fish <---> movie
+Takopi's Original Sin <---> 6
+
+Ao Ashi <---> 24
+KamiKatsu Working for God in a Godless World <---> 12
+K-Project <---> Movies 1 to 10
+Demon Slayer <---> S4 8 eps
+Blue Spring Ride (Ao Haru Ride) <---> 12 + ova(2)
+After the Rain <---> 12
+To Every You I've Loved Before <---> movie To All of You That I Loved
+To Me, The One Who Loved You <---> movie
+7th Time Loop The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! <---> 12
+A Condition Called Love <---> 12
+
+Attack on Titan <---> s1(25)
+The Banished Former Hero Lives as He Pleases <---> 12
+Attack on Titan <---> s2(12), s3(22), s4 part 1 16, s4 part 2 (12), s4 part 3 (2), Last Attack Movie,
+Attack on Titan <---> Junior High spin off(chibi), s1 after ova(3), s1 after ova2(2), s2 after ova(3)
+
+Death Note <---> 37 episodes, specials(2)
+Saekano How to Raise a Boring Girlfriend <---> special(1), special flat(1)
+
+Honobono Log <---> 10 
+Tawawa on Monday <---> s1(12), ova(2), s2(12)
+Love, Chunibyo & Other Delusions <---> s1(13), s2(13), movie(1 & 2)
+Spriggan <---> 6
+
+Aishen Qiaokeli-ing... - Cupid's Chocolate <---> s1(15), s2(15)
+
+Tanaka-kun is always listless <---> 12
+The Pet girl of Sakurasou <---> 24
+Tanaka-kun is always listless <---> specials(7), ONA Chibi(35)
+
+Our Last Crusade or the Rise of a New World <---> s1(12)
+We Never Learn! Bokuben <---> s1(13), ova
+
+Hanamaru Kindergarten <---> 12
+Golden Boy <---> 6
+Love, Election and Chocolate <---> 12, ova
+Goblin Slayer <---> s1(12), s2(12)
+The All-devouring Whale Homecoming <---> 12
+My Teen Romantic Comedy SNAFU <---> s1(13), s2(13), s3(12)
+Buddy Daddies <---> 12
+Akudama Drive <---> 12
+Bungou Stray Dogs <---> s1(12), s2(12), s3(12)
+
+ORESUKI Are you the only one who loves me <---> 12, ova
+
+Vinland Saga <---> s1(24), s2(24)
+Another <---> 12
+Farming Life in Another World <---> 12
+Tsukimichi -Moonlit Fantasy- <---> s1(12), s2(25)
+
+Trinity Seven <---> s1(12), ova, movies(2)
+To LOVE-Ru Darkness <---> s1(26), s2(12), s3(12), s4(14), s1 after ova(6), s4 after ova(10)
+
+Seven Mortal Sins <---> 12
+Our Last Crusade or the Rise of a New World <---> s2(12)
+Girlfriend, Girlfriend <---> s2(12)
+Masamune-kun's Revenge <---> s1(12), s2(12)
+Violet Evergarden <---> s1(13), movies(2)
+Welcome to the N.H.K. <---> 24
+
+Love is Like a Cocktail <---> 14
+Hell's Paradise <---> 13
+Prison School <---> 12, ova
+Hello World <---> movie
+Rainbow Days <---> 24, special
+
+Miru Tights <---> 12
+I Want You To Show Me Your Panties With a Disgusted Face <---> s1(6), s2(6)
+Miru Tights Special <---> 1
+
+The Boy and the Heron <---> movie
+The Unwanted Undead Adventurer <---> 12
+Why Raeliana Ended up at the Duke's Mansion <---> 12
+
+The Testament of Sister New Devil <---> s1(12), ova, s2(10), ova, ova2
+O Maidens in Your Savage Season <---> 12
+This Art Club Has a Problem <---> 12
+The Dreaming Boy is a Realist <---> 12
+
+The All-devouring Whale Homecoming <---> 12 (this version is downloaded by anime kai )
+The Misfit of Demon King Academy <---> s1(13), s2 part-1(12), s2 part-2(12)
+
+To Be Hero X <---> s1(24)
+Chuhai Lips <---> 9
+Scum's Wish <---> 12
+The Last Summoner <---> 12
+The Brilliant Healer's New Life in the Shadows <---> 12
+Sakamoto Days <---> s1 12 to 22
+Rent-A-Girlfriend <---> s4(12)
+Oreshura <---> 13
+Ghost Stories <---> 20
+Spy x Family <---> s1(25), s2(12), movie
+New Saga <---> 12
+Assassination Classroom <---> s1(22), s2(25), ova(8), special, movie
+A Whisker Away <---> Movie
+
+Dan Da Dan <---> s2(12)
+Ameku M.D. Doctor Detective <---> 12
+Death Parade <---> 12, ova
+Betrothed to My Sister's Ex <---> 12
+My Dress-Up Darling <---> s2(12)
+The Stunned Hero and the Assassin Princesses - The Shy Hero and the Assassin Princesses <---> 12
+Bad Girl <---> 12
+Grand Blue <---> s2(12)
+A Couple of Cuckoos <---> s2(12)
+I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability <---> s2 12
+Toradora <---> SOS(4)
+Beyond the boundary <---> s1(12), ova, movie 1, movie 2, mini (7)
+Kaiju No. 8 <---> s1 after special, s2(11)
+Rascal Does Not Dream of Bunny Girl Senpai <---> s2(13)
+Ruri Rocks <---> s1(13)
+Lord of Mysteries <---> s1(13)
+Miss caretaker of Sunohara-sou <---> s1(12)
+Arifureta From Commonplace to World's Strongest <---> s1(13), s1 after ova(2), s2(13), s2 after ova(2), s3(16)
+I'm Living with an Otaku NEET Kunoichi! <---> s1(13)
+Summer Pockets <---> SumPock 26
+Call of the Night <---> s1(13), specials(6), s2(12)
+
+Welcome to the Outcast's Restaurant! <---> s1(12)
+Witch Watch <---> s1(25)
+The Qwaser of Stigmata <---> s1(24), ova, picture drama(16), s2(12), picture drama II(4)
+Yandere Dark Elf She Chased Me All the Way From Another World! <---> s1(12)
+86 Eighty Six <---> s1(23) + 3(0.5 eps), watch 18.5 after 18th ep
+Please Put Them On, Takamine-san <---> 12
+91 Days <---> s1(12), ova, speicals(7)
+Spirited Away <---> movie
+Onmyo Kaiten ReBirth Verse <---> 12
+Cowboy bebop <---> s1(26), specials(2), movie
+Secrets of the Silent Witch <---> 13 eps
+Lost in Starlight <---> movie (part 1 first 1 hr, part 2 last 40 mins)
+Baki <---> Baki The Ultimate Fighter (1994), s1(24), s2(24), 2018(26), 2020(12), 2021(12), 2023(27), Ashura vs Baki
+Kengan Ashura <---> s1(24), s2(28)
+Black Butler <---> s1(24), s1 after ova, s2(12), s2 after ova(6), s3(10), s3 after ova(2), 
+Black Butler <---> s3 after ova after movie(no sound), s4(11), s5(13)
+The Daily Life of the Immortal King <---> s1(15), s2(12), s3(12), s4(12)
+
+That Time I Got Reincarnated as a Slime <---> s1(24), Tales of Veldora, s1 after ova(5), s2(24), specials(2),
+That Time I Got Reincarnated as a Slime <---> Slime Scarlet Bond Movie, Ova(3), s3(24), small vids(4), Slime Diaries(12) 
+
+Flower and Asura <---> 12
+I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time <---> 12
+I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic <---> 12
+Honey Lemon Soda <---> 12
+
+Fullmetal Alchemist <---> s1(51), Brotherhood 64 eps, movie 1,2
+I Want to Escape from Princess Lessons <---> 12
+
+Apocalypse Bringer Mynoghra World Conquest Starts with the Civilization of Ruin <---> 13
+I Tried Asking In Dogeza <---> 12 + special
+Overlord <---> s1(13)
+Photo Kano <---> 13
+
+KonoSuba <---> KonoSuba God's Blessing on This Wonderful World s1(10), s1 after ova, s2(10), s2 after ova, 
+KonoSuba <---> Legend of Crimson movie, An Explosion on This Wonderful World! 12
+KonoSuba <---> s3(11), s3 after ova(2)
+
+Suzuka <---> 26
+Fuuka <---> 12
+Parasyte -the maxim <---> 24
+Demon Slayer <---> ONA(4), Inifinity castle theatre print movie
+The Fruit of Evolution Before I Knew It, My Life Had It Made <---> s1(12), s2(12)
+
+Code Geass Lelouch of the Rebellion <---> s1(25), s2(25), movie
+Cyberpunk Edgerunners <---> 10 eps
+Darling in The Franxx <---> 24 eps
+Devilman Crybaby <---> 10 
+Mushoku Tensei Jobless Reincarnation <---> s1(23), s2(part 1(12), part 2(12))
+
+Lazarus <---> 13 eps
+The Seven Deadly Sins <---> movie(1,2), OAD(3), seisen(4)
+
+Made in abyss <---> s1(13), s2(12), movies 3
+Ishura <---> s1(12), s2(12)
+In Spectre <---> s1(12), s2(12)
+In Another World With My Smartphone <---> s1(12), s2(12)
+Heavenly delusion <---> 13
+Erased <---> 12
+dororo <---> 24
+The Children of Shiunji Family <---> s1(12)
+Gate <---> 24 eps
+Clannad <---> s1(22), s1 after ova(2), s2(23), s2 after ova, movie
+
+Chihayafuru <---> s1(25), s2(25), s2 after ova, s3(24)
+
+The Water Magician <---> 12
+JoJo's Bizarre Adventure <---> s1(26), s2(48), s3(39), s4(39), s5(38)
+The Gorilla God's Go-To Girl <---> 12
+5 Centimeters Per Second <---> movie
+
+We Never Learn! Bokuben <---> s2(13)
+VTuber Legend How I Went Viral after Forgetting to Turn Off My Stream <---> s1(12)
+Unnamed Memory <---> s1(12)
+Undefeated Bahamut Chronicle <---> s1(12)
+Ubel Blatt <---> s1(12)
+True Beauty <---> s1(13)
+Utawarerumono <---> s1(26), s1 after ova, s2(25), s3(28)
+
+Fighting Spirit - Hajime no Ippo <---> s1(75), s1 after ova(3), s2(26), s3(25)
+
+World Trigger <---> s1(73), s2(12), s3(14)
+Tokyo Godfathers <---> movie
+The Most Notorious Talker Runs the World's Greatest Clan <---> 12
+Trillion Game <---> 26
+The Knight in the Area <---> 37
+With You and the Rain <---> 12
+
+Tokyo Ghoul <---> s1(12), s2(12), s3(24), s3 after ova(2)
+Monster <---> 74 eps
+Murai in Love <---> 12
+The Strongest Tank's Labyrinth Raids A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party <---> 12
+Why Raeliana Ended up at the Duke's Mansion <---> 12
+The Reincarnation of the Strongest Exorcist in Another World <---> 13
+The Girl Who Leapt Through Time <---> movie
+Ghost Talker's Daydream <---> 4 eps
+Tatsuki Fujmoto 17-26 <---> 8 eps
+
+Arcane <---> s1(9), s2(9)
+My hero Academia <---> s8(11)
+Blue Lock <---> volumes(27 to 31)
+Demon Slayer <---> Infinity movie
+Kaguya-sama Love is War <---> Staircase to adulthood(2)
+Bungou Stray Dogs <---> S2 after movie Dead Apple, S4(13), s5(11)
+Toradora <---> s1(25)
+Sword Art Online <---> Movie Ordinal Scale, GGO(12 +5.5 epsiode), s3(24 + 00 ep + 18.5 ep), WOU(23), Progressive Starless Night Movie,
+Sword Art Online <---> Progressive Deep Night movie
