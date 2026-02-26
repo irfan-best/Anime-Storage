@@ -3,8 +3,8 @@
 ------------------------------------------------------------------------
 
 Haikyu <---> s1 after ova1(1), s2 after ova2(1)
-Naruto <---> Naruto Shippuuden all 500 episodes (71 to 85 missing)
-        (1 to 25, 26 to 50, 51 to 70, 86 to 95, 96 to 100, 101 to 110, 149 to 166,
+Naruto <---> Naruto Shippuuden all 111 to 500 episodes 
+        (149 to 166,
         167 to 186, 187 to 200, 201 to 217, 218 to 237, 238 to 250, 111 to 128
         (129, 148), 130 to 147, 251 to 268, 269 to 287, 288 to 300, 476 to 490, 491 to 500
         301 to 317, 318 to 333, 334 to 352, 353 to 368, 369 to 382, 383 to 397, 398 to 411, 412 to 423,

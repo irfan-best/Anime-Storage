@@ -289,7 +289,7 @@ My Wife Has No Emotion <---> 12
 My Wife is the Student Council President <---> s1(12), ova(1), s2(12)
 Mysterious Disappearances <---> 12
 Naruto <---> 1 to 137, 220 episodes
-Naruto <---> Naruto Shippuuden all 500 episodes (71 to 85 missing)
+Naruto <---> Naruto Shippuuden all 111 to 500 episodes 
 New Saga <---> 12
 Ninja Kamui <---> 13
 Nisekoi False Love <---> S1(20), ova(4), s2(12)
