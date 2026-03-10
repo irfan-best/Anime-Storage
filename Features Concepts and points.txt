@@ -1,0 +1,35 @@
+fileNames -> contains list of folder Names
+mainList -> List of (List of image names present in each folder)
+
+imgs-container:
+    will have multiplle "img-item"
+
+img-item:
+    whe img-item is clicked, 
+        if includeAnimeOrNot -> when true, when we click on an img, {img name} + " Anime" will be copied to clipboard
+        else only {img name} will be copied to clipboard
+
+
+    div -> img-box
+    img -> src = Images/{foldername}/{imagename}        -> relative path
+
+
+    img-box:
+        img
+        div -> img-name
+
+    img-box is appended to img-item
+
+    div -> img-folder-name
+    img-folder-name is added to img-item ( so this is out of img-box )
+
+exact structure of img-container and img-items:
+    img-container:
+        img-item:
+            img-box:
+                img
+
+            img-folder-name
+            img-name
+
+focusElement is initially 0 (0 means first element)

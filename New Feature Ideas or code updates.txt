@@ -1,0 +1,29 @@
+1. Instead of list of file name in each js files, can't we have a single file that will be having map of lists.
+2. update calculateRowMaxImageHeights to store row heights based on imgs, instead of img-boxes
+3. virtual ranking on folder page and home page, add up and down buttons that will increase or decrese the ranking of imgs
+4. lets move all variables to some other js file like, variable like includeAnimeOrNot or console log show or not ones.
+5. feature on one button click toggle img name extension.
+6. make sure all file explorer functions can be done in website itself, like select all, rename folder,
+    delete folder and so on.
+7. setWidthForAll_ImgItems_Based_No_Of_Imgs_Per_Row - has one condition for imgItems.length == 0, check it.
+    navigateToImgNumber() - has has same condition check it.
+8. best to update focusElement when we are calling navigateToTop (or) navigateToBottom
+9. disableSearchMode() and enableSearchMode() when chaning anchor make sure to clear the searchvalue.
+10. update navigateToImgNumber()
+11. one button to goto 0th focus element.
+12. anchor click event we have some methods from serverRelatedButtons.js - recheck
+13. allow imgs to be moved on UI, instead of virtual ranking try to have on button that will update img names as 
+    0001, 0002 - based of the order of imgs in UI.
+14. when i'm in f-screen mode then when i click on 1, first element on current row will get selected,
+    if i select 2, 2nd element on current row will get selected.
+15. also fix height issue for z entered case.
+16. show no.of selected imgs
+17. not able to add space or use right or left arrow buttons on the (move imgs box on top-left)
+
+18.special scroll, when i click on down arrow, 
+    initially rowLevel = 0, scroll_To_Top_OR_Bottom_Of_Img = top
+    now when i click on down arrow, rowLevel will be still 0, but scroll_To_Top_OR_Bottom_Of_Img = bottom
+
+    again if we click on down arrow, this time rowLevel = 1and scroll_To_Top_OR_Bottom_Of_Img = top
+    and so on..
+    make sure to do the change for up arrow also

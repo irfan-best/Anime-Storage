@@ -1,0 +1,115 @@
+
+    <!DOCTYPE html>
+    <html>
+        
+        <head>
+            <link rel="stylesheet" href="../../main-styles.css">
+            <link rel="stylesheet" href="../../serverRelatedButton.css">
+        </head>
+
+        <body>
+
+            <ul class='black-header'>
+                <li><a onclick="changeList('home')" href="#home">Home(<span id="data0"></span>)</a></li>
+                <li><a onclick="changeList('hype')" href="#hype">1 hype(<span id="data-hype"></span>)</a></li>
+                <li><a onclick="changeList('relaxing')" href="#relaxing">1 relaxing(<span id="data-relaxing"></span>)</a></li>
+                <li><a onclick="changeList('rom-almost harem')" href="#rom-almost harem">1 rom-almost harem(<span id="data-rom-almost harem"></span>)</a></li>
+                <li><a onclick="changeList('rom-harem')" href="#rom-harem">1 rom-harem(<span id="data-rom-harem"></span>)</a></li>
+                <li><a onclick="changeList('rom-multiple love stories')" href="#rom-multiple love stories">1 rom-multiple love stories(<span id="data-rom-multiple love stories"></span>)</a></li>
+                <li><a onclick="changeList('romance1')" href="#romance1">1 romance1(<span id="data-romance1"></span>)</a></li>
+                <li><a onclick="changeList('Slice of Life')" href="#Slice of Life">1 Slice of Life(<span id="data-Slice of Life"></span>)</a></li>
+                <li><a onclick="changeList('tier1')" href="#tier1">1 tier1(<span id="data-tier1"></span>)</a></li>
+                <li><a onclick="changeList('romance2')" href="#romance2">2 romance2(<span id="data-romance2"></span>)</a></li>
+                <li><a onclick="changeList('tier2')" href="#tier2">2 tier2(<span id="data-tier2"></span>)</a></li>
+                <li><a onclick="changeList('sad movies')" href="#sad movies">4 sad movies(<span id="data-sad movies"></span>)</a></li>
+                <li><a onclick="changeList('cartoons')" href="#cartoons">5 cartoons(<span id="data-cartoons"></span>)</a></li>
+                <li><a onclick="changeList('only peak animation')" href="#only peak animation">5 only peak animation(<span id="data-only peak animation"></span>)</a></li>
+                <li><a onclick="changeList('watched')" href="#watched">5 watched(<span id="data-watched"></span>)</a></li>
+                <li><a onclick="changeList('E Fans')" href="#E Fans">6 E Fans(<span id="data-E Fans"></span>)</a></li>
+                <li><a onclick="changeList('fans only')" href="#fans only">6 fans only(<span id="data-fans only"></span>)</a></li>
+                <li><a onclick="changeList('notConfirmed')" href="#notConfirmed">7 notConfirmed(<span id="data-notConfirmed"></span>)</a></li>
+                <li><a onclick="changeList('not my type')" href="#not my type">8 not my type(<span id="data-not my type"></span>)</a></li>
+            </ul>
+
+            <ul class='black-header1'>
+                <li><a onclick="changeList('home')" href="#home">Home(<span id="data1"></span>)</a></li>                <li><a onclick="changeList('hype')" href="#hype">1 hype(<span id="data1-hype"></span>)</a></li>
+                <li><a onclick="changeList('relaxing')" href="#relaxing">1 relaxing(<span id="data1-relaxing"></span>)</a></li>
+                <li><a onclick="changeList('rom-almost harem')" href="#rom-almost harem">1 rom-almost harem(<span id="data1-rom-almost harem"></span>)</a></li>
+                <li><a onclick="changeList('rom-harem')" href="#rom-harem">1 rom-harem(<span id="data1-rom-harem"></span>)</a></li>
+                <li><a onclick="changeList('rom-multiple love stories')" href="#rom-multiple love stories">1 rom-multiple love stories(<span id="data1-rom-multiple love stories"></span>)</a></li>
+                <li><a onclick="changeList('romance1')" href="#romance1">1 romance1(<span id="data1-romance1"></span>)</a></li>
+                <li><a onclick="changeList('Slice of Life')" href="#Slice of Life">1 Slice of Life(<span id="data1-Slice of Life"></span>)</a></li>
+                <li><a onclick="changeList('tier1')" href="#tier1">1 tier1(<span id="data1-tier1"></span>)</a></li>
+                <li><a onclick="changeList('romance2')" href="#romance2">2 romance2(<span id="data1-romance2"></span>)</a></li>
+                <li><a onclick="changeList('tier2')" href="#tier2">2 tier2(<span id="data1-tier2"></span>)</a></li>
+                <li><a onclick="changeList('sad movies')" href="#sad movies">4 sad movies(<span id="data1-sad movies"></span>)</a></li>
+                <li><a onclick="changeList('cartoons')" href="#cartoons">5 cartoons(<span id="data1-cartoons"></span>)</a></li>
+                <li><a onclick="changeList('only peak animation')" href="#only peak animation">5 only peak animation(<span id="data1-only peak animation"></span>)</a></li>
+                <li><a onclick="changeList('watched')" href="#watched">5 watched(<span id="data1-watched"></span>)</a></li>
+                <li><a onclick="changeList('E Fans')" href="#E Fans">6 E Fans(<span id="data1-E Fans"></span>)</a></li>
+                <li><a onclick="changeList('fans only')" href="#fans only">6 fans only(<span id="data1-fans only"></span>)</a></li>
+                <li><a onclick="changeList('notConfirmed')" href="#notConfirmed">7 notConfirmed(<span id="data1-notConfirmed"></span>)</a></li>
+                <li><a onclick="changeList('not my type')" href="#not my type">8 not my type(<span id="data1-not my type"></span>)</a></li>
+            </ul>
+
+            <div id="checkboxes-container">
+            </div>
+
+            <div class="imgs-container" id="imgs-container">
+            </div>
+
+            <div class="picklist-container">
+                <div class="remove-button">X</div>
+                <label for="categorySelect">Select Website Category:</label>
+                <select id="categorySelect">
+                    <option value="">-- Select Website Category --</option>
+                </select>
+
+                <label for="websiteSelect">Select Website:</label>
+                <select id="websiteSelect" disabled>
+                    <option value="">-- Select Website --</option>
+                </select>
+
+                <label for="folderSelect">Select Folder:</label>
+                <select id="folderSelect" disabled>
+                    <option value="">-- Select Folder --</option>
+                </select>
+
+                <label for="newFolder" class="new-folder-label">New Folder Name:</label>
+                <input class="new-folder" type="text">
+
+                <button class="submit-button submit-button-for-website-selection">Submit</button>
+            </div>
+
+            <!-- dir /B -->
+            <!-- use this command to get all file names in a folder -->
+            <script src="List Data/0 Files.js"></script>
+            <script src="List Data/1 hype.js"></script>
+            <script src="List Data/1 relaxing.js"></script>
+            <script src="List Data/1 rom-almost harem.js"></script>
+            <script src="List Data/1 rom-harem.js"></script>
+            <script src="List Data/1 rom-multiple love stories.js"></script>
+            <script src="List Data/1 romance1.js"></script>
+            <script src="List Data/1 Slice of Life.js"></script>
+            <script src="List Data/1 tier1.js"></script>
+            <script src="List Data/2 romance2.js"></script>
+            <script src="List Data/2 tier2.js"></script>
+            <script src="List Data/4 sad movies.js"></script>
+            <script src="List Data/5 cartoons.js"></script>
+            <script src="List Data/5 only peak animation.js"></script>
+            <script src="List Data/5 watched.js"></script>
+            <script src="List Data/6 E Fans.js"></script>
+            <script src="List Data/6 fans only.js"></script>
+            <script src="List Data/7 notConfirmed.js"></script>
+            <script src="List Data/8 not my type.js"></script>
+
+            <script src="../../imagesfunc.js"></script>
+            <script src="../../increase.js"></script>
+            <script src="../../serverRelatedButtons.js"></script>
+            <script src="../../serverCaller.js"></script>
+            <script src="../../listSites.js"></script>
+            <script src="../../open file name matching folder.js"></script>
+        </body>
+
+    </html>
+    

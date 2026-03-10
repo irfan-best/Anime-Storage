@@ -1,0 +1,26 @@
+homeListGenerator(sortingOrder):
+    uses imgItemCreator() 
+
+    add img-items to the 'imgs-container'
+
+
+imgItemCreator(imgNameWithExtension, foldername)
+    // <div class="img-item">
+    //             <div class="img-box"><img class="img-tag" src="Images/{FolderName}/{Filename}"/></div>
+    //             <div class="img-folder-name" style="display:none;">{FolderName}</div>
+    //             <div class="img-name">{Filename}</div>
+    // </div>
+
+
+imgListGenerator(foldername,imgNamePresentInFolder,sortingOrder)
+    uses imgItemCreator();
+
+getIndex(folderName): 
+    uses removeStartingNumber();
+
+    used in changeList(num);
+    by default when we open an link - logic runs to open home page/folder page - there also getIndex is called.
+
+    in increase.js when 'r' or "R" or 't' is entered, then for folder page case also getIndex is called.
+    
+

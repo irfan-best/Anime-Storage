@@ -1,0 +1,46 @@
+Images Related Features:
+    1. Click 2 -> to show only 2 images on the row, click 3 -> to show only 3 imgs on the row,
+        this is available for 1 to 9, and when we click on 0 - it will show 10 imgs on a row.
+
+    2. Click on 'r' to make the images order in random.
+
+    3. Click on 'R' to make the images back to sorted order.
+
+    4. Click on 't' to make the images in descending order.
+
+Focus Element: 
+    1. Initally Focus Element = First Image.
+    2. When we click on any image, that will become Focus Element
+
+Navigate to other page:
+
+
+Within Page Navigation:
+    1. Click on down arrow to scroll to below row. (scrolling depends on focus element)
+        If Focus element = 5th image, and no.of imgs in an row = 4, 
+        then when we click on down arrow -> it will goto to 9th imgs containing row.
+
+    2. Click on up arrow to scroll to above row. (scrolling depends on focus element)
+
+    3. w - to goto top of the page.
+
+    4. W - to goto bottom of the page.
+    
+Copy to Clipboard:
+    y - Copies Current Page/header Name
+    l - Copy all imgs name as "\n" seperated
+        if search for an word and click "l" it will still copy all images name, not only the ones shown on screen
+    p - Copy Path - use this to copy the path and open in file explorer
+    u - it will url path, so that we can update it in the main vala index.html file
+        like All Websites Links/1 Main/Ani List/index.html#hype
+
+Ctrl + Enter: When we are on "Alina Becker Tier 1", it open goto "Alina Becker Tier 1 - Avg" website & vise versa
+
+when we are in multipleElementsSelectionMode:
+    when we click on 1, it will select first element in current row level,
+    when we click on 2, it will select 2nd   element in current row level
+    when we click on 2, it will select 3rd   element in current row level
+
+    when we click on m, move button will get clicked,
+    when we click on s, submit button will get clicked 
+        (Note Submit button is: the left-side top submit button for category/website/folder)

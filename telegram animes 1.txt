@@ -3,12 +3,6 @@
 ------------------------------------------------------------------------
 
 Haikyu <---> s1 after ova1(1), s2 after ova2(1)
-Naruto <---> Naruto Shippuuden all 111 to 500 episodes 
-        (149 to 166,
-        167 to 186, 187 to 200, 201 to 217, 218 to 237, 238 to 250, 111 to 128
-        (129, 148), 130 to 147, 251 to 268, 269 to 287, 288 to 300, 476 to 490, 491 to 500
-        301 to 317, 318 to 333, 334 to 352, 353 to 368, 369 to 382, 383 to 397, 398 to 411, 412 to 423,
-        424 to 437, 438 and 454, 455 to 465, 466 to 475 )
 
 One Piece <---> 1 to 100 Volumes Black and White
 Naruto <---> 1 to 137, 220 episodes
@@ -500,7 +494,7 @@ Grand Blue Dreaming <---> s2(12)
 A Couple of Cuckoos <---> s2(12)
 I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability <---> s2 12
 Toradora <---> SOS(4)
-Beyond the boundary <---> s1(12), ova, movie 1, movie 2, mini (7)
+Beyond the boundary <---> ova, movie 1, movie 2, mini (7)
 Kaiju No. 8 <---> s1 after special, s2(11)
 Rascal Does Not Dream of Bunny Girl Senpai <---> s2(13)
 Ruri Rocks <---> s1(13)
@@ -617,3 +611,4 @@ Bungou Stray Dogs <---> S2 after movie Dead Apple, S4(13), s5(11)
 Toradora <---> s1(25)
 Sword Art Online <---> Movie Ordinal Scale, GGO(12 +5.5 epsiode), s3(24 + 00 ep + 18.5 ep), WOU(23), Progressive Starless Night Movie,
 Sword Art Online <---> Progressive Deep Night movie
+Beyond the boundary <---> s1(12)
